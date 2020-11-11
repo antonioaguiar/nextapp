@@ -12,6 +12,7 @@
         "webpack": "4.44.2"
     },
     "scripts": {
+        "build": "react-scripts build",
         "dev": "next dev"
     },
     "browserslist": {
