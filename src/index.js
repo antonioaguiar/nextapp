@@ -1,12 +1,13 @@
 import React from 'react';
-//import ReactDOM from 'react-dom';
+import ReactDOM from 'react-dom';
 import App from './App';
 
+/*
 function Home() {
-    return <App / >
+    return <App />
 }
 
 export default Home;
+*/
 
-
-//ReactDOM.render( < App / > , document.getElementById('root'), );
+ReactDOM.render(< App />, document.getElementById('root'),);
